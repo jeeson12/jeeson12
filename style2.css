@@ -379,20 +379,20 @@ display: flex;
     }
     .image img{
        width:325px;
-       padding: 2rem 1rem 0 3rem;
+       padding: 4rem 1rem 0 3rem;
     }
     .name{
         font-size: 2rem;
     }
     .hello{
-        top: 25rem;
+        top: 15rem;
         font-size:  1.5rem;
     }
     .name2{
-        top: 30rem;
-        left: 7rem;
+        top: 25rem;
+        text-align:1.5rem;
         font-size: 1.8rem;
-        width: 50%;
+        width: 70%;
     }
     .aboutme{
         font-size: 1.3rem;
