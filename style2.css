@@ -361,11 +361,24 @@ display: flex;
 
 @media only screen and (max-width: 780px) {
     body{
-        width:auto;
+        width:412px;
     }
+    .menu{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+        height: 100wh;
+        position: fixed;
+        top: 0;
+        right: 0;
+        z-index: 100;
+        background-color: rgb(0, 0, 0);
+        transition: all 0.2s ease-in-out;
     
+    }
     .image img{
-       width:auto;
+       width:412px;
        padding: 2rem 1rem 0 3rem;
     }
     .name{
@@ -373,45 +386,43 @@ display: flex;
     }
     .hello{
         top: 25rem;
-        font-size:  2.1rem;
+        font-size:  1.5rem;
     }
     .name2{
-        top: 32rem;
-        left: 12rem;
-        font-size: 1.9rem;
-        width: 100%;
+        top: 30rem;
+        left: 7rem;
+        font-size: 1.8rem;
+        width: 50%;
     }
     .aboutme{
         font-size: 1.3rem;
-        width: 39rem;
+        width: center;
     }
     .img2{
         display: block;
         align-items: center;
     }
-    .img2 img{
-        
-    }
+    
     .details1{
     
-        font-size:1.5rem;
+        font-size:1.2rem;
     }
     .abt{
-        width:39rem;
+        width:24.8rem;
     }
     .biop1{
-
-        font-size:1.3rem;
+        padding-left:1rem;
+        font-size:1rem;
     }
     .biop2{
-        padding-left: 5rem;
-        font-size:1.3rem;
+        padding-left: 1rem;
+        font-size:1rem;
     }
     .bio{
-       
+       display:inline;
     }
     .academics1{
-        width: 39rem;
+        width: center;
         font-size: 1.3rem;
     }
     .d2a-1{
@@ -429,19 +440,19 @@ display: flex;
         
         padding-bottom: 2rem;
         text-align: center;
-        width: 36rem;
+        width: center;
         font-size:1.3rem;
     }
     .details2b{
         padding-bottom: 2rem;
         text-align: center;
-        width: 36rem;
+        width: center;
         font-size:1.3rem;
     }
     .details2c{
         padding-bottom: 2rem;
         text-align: center;
-        width: 36rem;
+        width: center;
         font-size:1.3rem;
     }
     .edu{
@@ -452,7 +463,8 @@ display: flex;
         font-size: 1.3rem;
     }
     .skl{
-        width: 39rem;
+        width:24.8rem;
+        width: center;
     }
     .skills2{
         padding-left: 1rem;
@@ -462,7 +474,7 @@ display: flex;
     }
     .projects{
         font-size: 1.3rem;
-        width: 39rem;
+        width: center;
     }
     .details4{
         
@@ -470,9 +482,10 @@ display: flex;
     }
     .contactme{
         font-size: 1.3rem;
-        width: 39rem;
+        width: center;
     }
     .cnt{
-        width: 39rem;
+        width:24.8rem;
+        width: center;
     }
 }
