@@ -363,6 +363,9 @@ display: flex;
     body{
         width:412px;
     }
+    .mainnav{
+      display:none;  
+    }
     .menu{
         flex-direction: column;
         align-items: center;
@@ -378,7 +381,7 @@ display: flex;
     
     }
     .image img{
-       width:325px;
+       width:320px;
        padding: 4rem 1rem 0 3rem;
     }
     .name{
@@ -408,7 +411,7 @@ display: flex;
         font-size:1.2rem;
     }
     .abt{
-        width:25.5rem;
+        width:24.8rem;
     }
     .biop1{
         padding-left:1rem;
@@ -463,7 +466,7 @@ display: flex;
         font-size: 1.3rem;
     }
     .skl{
-        width:25.5rem;
+        width:24.8rem;
         width: center;
     }
     .skills2{
@@ -485,7 +488,7 @@ display: flex;
         width: center;
     }
     .cnt{
-        width:25.5rem;
+        width:24.8rem;
         width: center;
     }
 }
