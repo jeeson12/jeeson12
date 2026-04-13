@@ -1,15 +1,18 @@
-<div align="center">
+<br/><br/><div align="center">
 
-<!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jeeson+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%2B+Firebase;Building+things+that+actually+work.;Ship+fast.+Break+things.+Fix+them.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jeeson+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%2B+Firebase;Building+things+that+actually+work.;Ship+fast.+Break+things.+Fix+them.)](https://git.io/typing-svg)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=jeeson12&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="jeeson12" />
 
 </div>
 
+<br/><br/>
+
 ---
 
-## `whoami`
+## `who_am_i`
 
 ```ts
 const jeeson = {
@@ -20,6 +23,8 @@ const jeeson = {
   obsessedWith: ["clean architecture", "fast UIs", "real-time systems"],
 };
 ```
+
+<br/><br/>
 
 ---
 
@@ -36,11 +41,15 @@ const jeeson = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+<br/>
+
 **Backend & Database**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+
+<br/>
 
 **Tools & Workflow**
 
@@ -51,13 +60,17 @@ const jeeson = {
 
 </div>
 
+<br/><br/>
+
 ---
 
 ## 🚀 Project I'm Actually Proud Of
 
 | Project | What it does | Stack |
-|---------|-------------|-------|
+|--------|-------------|-------|
 | 🔍 **[pg_review](https://github.com/jeeson12/pg_review)** | Real-time review system with Firestore live sync | React · TypeScript · Firebase |
+
+<br/><br/>
 
 ---
 
@@ -71,11 +84,15 @@ const jeeson = {
 
 </div>
 
+<br/>
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeeson12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+<br/><br/>
 
 ---
 
@@ -87,7 +104,7 @@ const jeeson = {
 
 </div>
 
----
+<br/><br/>
 
 
 
@@ -97,6 +114,8 @@ const jeeson = {
 - 📚 Going deeper into **system design** and **scalable architecture**
 - 🧪 Writing cleaner, testable TypeScript every day
 - 🌱 Open to **collabs**, **freelance work**, and **interesting problems**
+
+<br/><br/>
 
 ---
 
@@ -109,6 +128,8 @@ const jeeson = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeeson12)
 
 </div>
+
+<br/><br/>
 
 ---
 
