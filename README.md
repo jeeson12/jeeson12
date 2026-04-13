@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**jeeson12/jeeson12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<div align="center">
+<div align="center">
 
 <!-- Dynamic typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jeeson+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%2B+Firebase;Building+things+that+actually+work.;Ship+fast.+Break+things.+Fix+them.)](https://git.io/typing-svg)
@@ -96,6 +89,7 @@ const jeeson = {
 
 ---
 
+## 🐍 GitHub Contribution Snake Animation
 
 <div align="center">
 
@@ -133,11 +127,3 @@ Code. Ship. Repeat. 🚀
 ```
 
 </div>
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
