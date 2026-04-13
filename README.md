@@ -1,6 +1,6 @@
 <br/><br/><div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jeeson+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%2B+Firebase;Building+things+that+actually+work.;Ship+fast.+Break+things.+Fix+them.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jeeson;Full-Stack+Dev+%7C+React+%2B+Firebase;Building+things+that+actually+work.;Ship+fast.+Break+things.+Fix+them.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -9,8 +9,10 @@
 </div>
 
 <br/><br/>
+<br/>
 
 ---
+
 
 ## `who_am_i`
 
@@ -28,7 +30,7 @@ const jeeson = {
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -64,7 +66,9 @@ const jeeson = {
 
 ---
 
-## 🚀 Project I'm Actually Proud Of
+##  Project I'm Actually Proud Of
+<br/>
+
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
@@ -74,17 +78,14 @@ const jeeson = {
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeeson12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeson12&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -96,7 +97,9 @@ const jeeson = {
 
 ---
 
-## 📊 GitHub Contributions & Activity
+##  GitHub Contributions & Activity
+<br/>
+
 
 <div align="center">
 
@@ -110,16 +113,16 @@ const jeeson = {
 
 ## 🎯 Currently
 
-- 🔨 Building & shipping full-stack apps with **React + Firebase**
-- 📚 Going deeper into **system design** and **scalable architecture**
-- 🧪 Writing cleaner, testable TypeScript every day
-- 🌱 Open to **collabs**, **freelance work**, and **interesting problems**
+-  Building & shipping full-stack apps with **React + Firebase**
+-  Going deeper into **system design** and **scalable architecture**
+-  Writing cleaner, testable TypeScript every day
+-  Open to **collabs**, **freelance work**, and **interesting problems**
 
 <br/><br/>
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
