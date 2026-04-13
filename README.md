@@ -89,15 +89,7 @@ const jeeson = {
 
 ---
 
-## 🐍 GitHub Contribution Snake Animation
 
-<div align="center">
-
-![Snake animation](https://github.com/jeeson12/jeeson12/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## 🎯 Currently
 
