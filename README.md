@@ -183,22 +183,23 @@ const jeeson = {
 <br/>
 
 ---
-
-# 📦 Repository Showcase
+# 📦 Featured Repositories
 
 <div align="center">
 
 <a href="https://github.com/jeeson12/projectLoom">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=jeeson12&repo=projectLoom&theme=dark&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jeeson12&repo=projectLoom&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
     height="150"
+    alt="ProjectLoom repository"
   />
 </a>
 
 <a href="https://github.com/jeeson12/rate_my_pg">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=jeeson12&repo=rate_my_pg&theme=dark&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jeeson12&repo=rate_my_pg&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
     height="150"
+    alt="PGundo repository"
   />
 </a>
 
@@ -206,8 +207,9 @@ const jeeson = {
 
 <a href="https://github.com/jeeson12/jeeson12-portfolio-protfolio">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=jeeson12&repo=jeeson12-portfolio-protfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jeeson12&repo=jeeson12-portfolio-protfolio&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
     height="150"
+    alt="Portfolio repository"
   />
 </a>
 
@@ -217,18 +219,20 @@ const jeeson = {
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=jeeson12&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
-height="170"
+  src="https://github-readme-stats.vercel.app/api?username=jeeson12&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
+  height="180"
+  alt="Jeeson's GitHub Stats"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeson12&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
-height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeson12&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
+  height="180"
+  alt="Jeeson's Top Languages"
 />
 
 </div>
@@ -247,20 +251,6 @@ height="170"
 
 <br/>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=jeeson12&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
-alt="GitHub Trophies"
-/>
-
-</div>
-
-<br/>
 
 ---
 
