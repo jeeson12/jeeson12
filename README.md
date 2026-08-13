@@ -1,145 +1,360 @@
-<br/><br/><div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jeeson+Jacob+Varghese;Full-Stack+Dev+%7C+React+%2B+Firebase;Building+things+that+actually+work.;Ship+fast.+Break+things.+Fix+them.)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=36\&pause=1000\&color=9FE870\&center=true\&vCenter=true\&width=850\&lines=Hey%2C+I'm+Jeeson+Jacob+Varghese;Full-Stack+Developer+%7C+React+%2B+Next.js;Building+production-ready+web+applications.;Build.+Ship.+Learn.+Repeat.)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jeeson12&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="jeeson12" />
+<img src="https://komarev.com/ghpvc/?username=jeeson12&style=for-the-badge&color=9FE870&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=9FE870)](https://github.com/jeeson12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=9FE870)](https://linkedin.com/in/jeeson-jacob-varghese)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge\&logo=vercel\&logoColor=9FE870)](https://jeeson12.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=9FE870)](mailto:jeeson0987@gmail.com)
 
 </div>
 
-<br/><br/>
 <br/>
 
 ---
-
 
 ## `who_am_i`
 
 ```ts
 const jeeson = {
-  role: "Frontend Developer",
+  role: "Full-Stack Developer",
   location: "Kerala, India 🇮🇳",
-  stack: ["React", "TypeScript", "Firebase", "Node.js"],
-  currentlyBuilding: "Production-grade apps with real users in mind",
-  obsessedWith: ["clean architecture", "fast UIs", "real-time systems"],
+
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "NestJS",
+    "Node.js",
+    "Prisma",
+    "PostgreSQL",
+    "Socket.IO"
+  ],
+
+  currentlyBuilding: "Production-grade full-stack applications",
+
+  interestedIn: [
+    "clean architecture",
+    "scalable systems",
+    "real-time applications",
+    "developer experience"
+  ],
+
+  philosophy: "Build it. Test it. Ship it. Improve it."
 };
 ```
 
-<br/><br/>
+<br/>
 
 ---
 
-## Tech Arsenal
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-**Frontend**
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=9FE870)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=next.js\&logoColor=9FE870)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge\&logo=typescript\&logoColor=9FE870)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=9FE870)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge\&logo=tailwindcss\&logoColor=9FE870)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=9FE870)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=9FE870)
 
 <br/>
 
-**Backend & Database**
+### Backend & Database
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=nodedotjs\&logoColor=9FE870)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge\&logo=nestjs\&logoColor=9FE870)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge\&logo=prisma\&logoColor=9FE870)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=9FE870)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge\&logo=socket.io\&logoColor=9FE870)
 
 <br/>
 
-**Tools & Workflow**
+### Cloud, Storage & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge\&logo=supabase\&logoColor=9FE870)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge\&logo=firebase\&logoColor=9FE870)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0D1117?style=for-the-badge\&logo=cloudinary\&logoColor=9FE870)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker\&logoColor=9FE870)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=9FE870)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=9FE870)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge\&logo=vercel\&logoColor=9FE870)
 
 </div>
 
-<br/><br/>
-
----
-
-##  Project I'm Actually Proud Of
 <br/>
 
-
-| Project | What it does | Stack |
-|--------|-------------|-------|
-| 🔍 **[pg_review](https://github.com/jeeson12/pg_review)** | Real-time review system with Firestore live sync | React · TypeScript · Firebase |
-
-<br/><br/>
-
 ---
 
-##  GitHub Stats
+# 🚀 Featured Projects
+
+## 01 · ProjectLoom
+
+> A full-stack project collaboration platform that brings projects, tasks, conversations, files, team members, and activity into one focused workspace.
 
 <div align="center">
 
+### `Next.js` · `NestJS` · `PostgreSQL` · `Prisma` · `Socket.IO`
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-9FE870?style=for-the-badge\&logo=vercel\&logoColor=0D1117)](https://projectloom-web.vercel.app/)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge\&logo=github\&logoColor=9FE870)](https://github.com/jeeson12/projectLoom)
 
 </div>
 
-<br/><br/>
+### ✨ Highlights
 
-<div align="center">
+* 🔐 JWT authentication with HTTP-only cookies
+* 🏢 Workspace & project management
+* 👥 Workspace & project membership
+* 📋 Kanban task management
+* 🏷️ Priorities, statuses & due dates
+* 💬 Comments & @mentions
+* 🔔 Notifications
+* 📎 File attachments
+* 📊 Activity tracking
+* 📧 Email invitations
+* 🔑 Forgot password & password reset
+* ⚡ Real-time communication with Socket.IO
+* 🗄️ PostgreSQL + Prisma ORM
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeeson12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<br/><br/>
-
----
-
-##  GitHub Contributions & Activity
 <br/>
 
+---
+
+## 02 · PGundo
+
+> A modern accommodation discovery platform for finding, reviewing, and managing PG properties.
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeeson12&theme=tokyo-night&hide_border=true&bg_color=0d1117)
+### `React` · `TypeScript` · `Firebase` · `Cloudinary` · `Tailwind CSS`
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-9FE870?style=for-the-badge\&logo=vercel\&logoColor=0D1117)](https://pgundo.vercel.app/)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge\&logo=github\&logoColor=9FE870)](https://github.com/jeeson12/rate_my_pg)
 
 </div>
 
-<br/><br/>
+### ✨ Highlights
 
+* 🔐 Google authentication with Firebase
+* 🏠 Dynamic PG property listings
+* 📍 Location search & map integration
+* ⭐ Reviews & ratings
+* ❤️ Favorites
+* 🏢 Property management for owners
+* 📸 Multiple image uploads with Cloudinary
+* 🗺️ OpenStreetMap location integration
+* 📱 Responsive UI
+* ⚡ Real-time Firestore data
 
-
-## 🎯 Currently
-
--  Building & shipping full-stack apps with **React + Firebase**
--  Going deeper into **system design** and **scalable architecture**
--  Writing cleaner, testable TypeScript every day
--  Open to **collabs**, **freelance work**, and **interesting problems**
-
-<br/><br/>
+<br/>
 
 ---
 
-##  Let's Connect
+## 03 · Personal Portfolio
+
+> A personal developer portfolio showcasing projects, skills, experience, and work.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeson-jacob-varghese)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeeson0987@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeeson12)
+### `React` · `TypeScript` · `Tailwind CSS`
+
+[![Live Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-9FE870?style=for-the-badge\&logo=vercel\&logoColor=0D1117)](https://jeeson12.vercel.app/)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge\&logo=github\&logoColor=9FE870)](https://github.com/jeeson12/jeeson12-portfolio-protfolio)
 
 </div>
 
-<br/><br/>
+<br/>
 
 ---
 
+# 📦 Repository Showcase
+
 <div align="center">
 
+<a href="https://github.com/jeeson12/projectLoom">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jeeson12&repo=projectLoom&theme=dark&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
+    height="150"
+  />
+</a>
+
+<a href="https://github.com/jeeson12/rate_my_pg">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jeeson12&repo=rate_my_pg&theme=dark&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
+    height="150"
+  />
+</a>
+
+<br/>
+
+<a href="https://github.com/jeeson12/jeeson12-portfolio-protfolio">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jeeson12&repo=jeeson12-portfolio-protfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
+    height="150"
+  />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=jeeson12&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
+height="170"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeson12&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9FE870&text_color=FFFFFF&icon_color=9FE870"
+height="170"
+/>
+
+</div>
+
+<br/>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeeson12\&theme=dark\&hide_border=true\&background=0D1117\&ring=9FE870\&fire=9FE870\&currStreakLabel=9FE870\&sideLabels=FFFFFF\&dates=8B949E)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=jeeson12&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
+alt="GitHub Trophies"
+/>
+
+</div>
+
+<br/>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeeson12\&bg_color=0D1117\&color=9FE870\&line=9FE870\&point=FFFFFF\&area=true\&hide_border=true)
+
+</div>
+
+<br/>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jeeson12/jeeson12/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jeeson12/jeeson12/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/jeeson12/jeeson12/output/github-snake.svg"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+# 🎯 Currently
+
+* 🚀 Building and shipping full-stack applications
+* ⚙️ Going deeper into backend architecture and system design
+* 🔄 Exploring real-time systems with Socket.IO
+* 🧠 Improving TypeScript architecture and code quality
+* 🗄️ Working with PostgreSQL, Prisma, and scalable data models
+* 💼 Looking for opportunities to build useful software
+* 🤝 Open to interesting collaborations and projects
+
+<br/>
+
+---
+
+# 🧠 What I Care About
+
+```text
+Clean Architecture
+       ↓
+Maintainable Code
+       ↓
+Fast User Experiences
+       ↓
+Reliable Backend Systems
+       ↓
+Products People Actually Use
 ```
-Code. Ship. Repeat. 🚀
+
+<br/>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=9FE870)](https://linkedin.com/in/jeeson-jacob-varghese)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge\&logo=vercel\&logoColor=9FE870)](https://jeeson12.vercel.app/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge\&logo=gmail\&logoColor=9FE870)](mailto:jeeson0987@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=9FE870)](https://github.com/jeeson12)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+```text
+Build. Ship. Learn. Repeat. 🚀
 ```
 
 </div>
